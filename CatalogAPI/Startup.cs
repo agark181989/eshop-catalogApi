@@ -105,14 +105,14 @@ namespace CatalogAPI
             //app.UseCors("AllowPartners"); //Custom policy or named policies
             app.UseCors("AllowAll"); //Custom policy or named policies
             app.UseSwagger(); //http://localhost:52011/swagger/v1/swagger.json
-            if (env.IsDevelopment())
-            {
+            //if (env.IsDevelopment())
+            //{
                 app.UseSwaggerUI(config =>
                 {
                     config.SwaggerEndpoint("/swagger/v1/swagger.json", "Catelog API");
                     config.RoutePrefix = "";
                 });
-            }
+            //}
             app.UseAuthentication();
             app.UseMvc();
         }

@@ -17,7 +17,6 @@ D:\Rohit_Doc\Hexaware_Traning-master\DOTNETCore\MicroServices\CatalogAPI\Catalog
 D:\Rohit_Doc\Hexaware_Traning-master\DOTNETCore\MicroServices\CatalogAPI\CatalogAPI\bin\Debug\netcoreapp2.2\CatalogAPI.runtimeconfig.dev.json
 D:\Rohit_Doc\Hexaware_Traning-master\DOTNETCore\MicroServices\CatalogAPI\CatalogAPI\bin\Debug\netcoreapp2.2\CatalogAPI.dll
 D:\Rohit_Doc\Hexaware_Traning-master\DOTNETCore\MicroServices\CatalogAPI\CatalogAPI\bin\Debug\netcoreapp2.2\CatalogAPI.pdb
-D:\Rohit_Doc\Hexaware_Traning-master\DOTNETCore\MicroServices\CatalogAPI\CatalogAPI\obj\Debug\netcoreapp2.2\CatalogAPI.csprojAssemblyReference.cache
 D:\Rohit_Doc\Hexaware_Traning-master\DOTNETCore\MicroServices\CatalogAPI\CatalogAPI\obj\Debug\netcoreapp2.2\CatalogAPI.csproj.CoreCompileInputs.cache
 D:\Rohit_Doc\Hexaware_Traning-master\DOTNETCore\MicroServices\CatalogAPI\CatalogAPI\obj\Debug\netcoreapp2.2\CatalogAPI.RazorAssemblyInfo.cache
 D:\Rohit_Doc\Hexaware_Traning-master\DOTNETCore\MicroServices\CatalogAPI\CatalogAPI\obj\Debug\netcoreapp2.2\CatalogAPI.RazorAssemblyInfo.cs
